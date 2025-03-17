@@ -84,4 +84,3 @@ The Pod is a modular add-on for the Trak system, designed to provide advanced po
 - Environmental Protection:
     - Conformal coating for humidity resistance.
     - IP67-rated enclosure compatibility. (Not our concern)
-- 
