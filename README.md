@@ -19,7 +19,7 @@ The Pod is a modular add-on for the Trak system, designed to provide advanced po
 - Microcontroller: nRF52840 (for Bluetooth Mesh communication with Trak).
 - Wireless Communication:
     - Bluetooth Mesh (BT Mesh) for data transmission to Trak.
-    - 2.4GHz, 5GHz, and 900 MHz RF monitoring for wireless signal health analysis.
+    - 2.4GHz BLE monitoring for wireless signal health analysis.
 - Battery:
     - 3,000 mAh Li-Po battery.
     - Battery automatically recharges when DC voltage is turned on.
@@ -54,7 +54,7 @@ The Pod is a modular add-on for the Trak system, designed to provide advanced po
     - ADXL345 3-axis accelerometer for impact detection.
 - Wireless Signal Health Monitoring:
     - Wi-Fi spectrum analyzer and RF monitoring.
-    - 2.4GHz, 5GHz, and 900 MHz RF interference detection.
+    - ~2.4GHz, 5GHz, and 900 MHz RF interference detection.~
 - Data Storage & Logging:
     - Local storage capability for network outage scenarios.
     - Automatic data upload once connection is restored.
