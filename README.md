@@ -31,10 +31,13 @@ The Pod is a modular add-on for the Trak system, designed to provide advanced po
     - Sensor Model: INA219 or equivalent.
     - Connection Method: Single wire taps into phase lines (A, B, C) and neutral, routed through a custom harness to the Pod. Voltage dividers and INA219 sensors are integrated into the Pod PCB.
 - Current Measurement:
-    - Range: 0-400A (AC/DC).
+    - Range: 0-400A (AC).
+    - Range: 0-50A (DC)
     - Accuracy: ±1%.
     - Sensor Model: ACS758 or equivalent.
     - Connection Method: ACS758 sensors are external to the Pod. Phase wires (A, B, C) pass through each sensor’s aperture. Analog outputs from the ACS758 sensors are routed via the wire harness to dedicated ADC inputs on the Pod PCB. Shared 5V and GND lines power the sensors.
+- Sampling Frequency:
+    - 1Hz, once per second and sample will need to be stored in on board storage if its not transmitted over the Mesh.
 - Ground Fault Detection:
     - Immediate alerts for ground shorts or leakages.
     - Implementation using differential current sensing or similar methods.
