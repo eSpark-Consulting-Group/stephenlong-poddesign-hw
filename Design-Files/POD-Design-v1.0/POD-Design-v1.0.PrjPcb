@@ -270,6 +270,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSKSVQUK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for POD-Design-v1.0\Design Rule Check - POD-Design-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
