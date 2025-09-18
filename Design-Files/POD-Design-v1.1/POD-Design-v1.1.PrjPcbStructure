@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=AC-Measurement-Sheet-1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=AC-Measurement-Sheet-2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Battery-Charging-Sheet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=BLE-MCU-Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Connector-Sheet.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=DC-Measurement-Sheet.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Ground-Fault-Detect-Sheet-1.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Ground-Fault-Detect-Sheet-2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Ground-Fault-Detect-Sheet-3.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Motion-Temp-Sensor-Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AC-Measurement-Sheet-1.SchDoc|FileName=Power-Sheet.SchDoc|SheetNumber=4
